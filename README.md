@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming and building PCs
 - 🌱 I’m currently learning python because i´m new to coding
 - 🎮 I like playing Warthunder and strategic games
-- 🎬 I sometimes Stream on Twitch ( TKXwt )
+- 🎬 I sometimes Stream on Twitch ( TKX_wt )
 - 📫 Write me on Discord - https://www.twitch.tv/tkx_wt
 - 💬 My Discord Sever: https://discord.gg/dsj2PSeZYu
 <!---

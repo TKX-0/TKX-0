@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **TKX**
 - 👀 I’m interested in coding, gaming and building PCs
 - 🌱 I’m currently learning python because i´m new to coding
-- 🎮 I like playing Warthunder and strategic games
-- 🎬 I sometimes Stream on Twitch ( TKX_wt )
+- 🎮 I like playing Warthunder and strategic games like Hearts of Iron IV
+- 🎬 I sometimes Stream on Twitch ( TKX_live )
 - 📫 Write me on Discord - https://www.twitch.tv/tkx_live
 - 💬 My Discord Sever: https://discord.gg/dsj2PSeZYu
 <!---
